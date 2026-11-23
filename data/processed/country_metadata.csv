@@ -1,0 +1,191 @@
+code,aggregate,region,income_group
+AFG,False,"Middle East, N. Africa, Afghanistan & Pakistan",Low income
+AGO,False,Sub-Saharan Africa,Lower middle income
+ALB,False,Europe & Central Asia,Upper middle income
+AND,False,Europe & Central Asia,High income
+ARE,False,"Middle East, N. Africa, Afghanistan & Pakistan",High income
+ARG,False,Latin America & Caribbean,Upper middle income
+ARM,False,Europe & Central Asia,Upper middle income
+ATG,False,Latin America & Caribbean,High income
+AUS,False,East Asia & Pacific,High income
+AUT,False,Europe & Central Asia,High income
+AZE,False,Europe & Central Asia,Upper middle income
+BDI,False,Sub-Saharan Africa,Low income
+BEL,False,Europe & Central Asia,High income
+BEN,False,Sub-Saharan Africa,Lower middle income
+BFA,False,Sub-Saharan Africa,Low income
+BGD,False,South Asia,Lower middle income
+BGR,False,Europe & Central Asia,High income
+BHR,False,"Middle East, N. Africa, Afghanistan & Pakistan",High income
+BHS,False,Latin America & Caribbean,High income
+BIH,False,Europe & Central Asia,Upper middle income
+BLR,False,Europe & Central Asia,Upper middle income
+BLZ,False,Latin America & Caribbean,Upper middle income
+BOL,False,Latin America & Caribbean,Lower middle income
+BRA,False,Latin America & Caribbean,Upper middle income
+BRB,False,Latin America & Caribbean,High income
+BRN,False,East Asia & Pacific,High income
+BTN,False,South Asia,Lower middle income
+BWA,False,Sub-Saharan Africa,Upper middle income
+CAN,False,North America,High income
+CHE,False,Europe & Central Asia,High income
+CHL,False,Latin America & Caribbean,High income
+CHN,False,East Asia & Pacific,Upper middle income
+CIV,False,Sub-Saharan Africa,Lower middle income
+CMR,False,Sub-Saharan Africa,Lower middle income
+COD,False,Sub-Saharan Africa,Low income
+COG,False,Sub-Saharan Africa,Lower middle income
+COL,False,Latin America & Caribbean,Upper middle income
+COM,False,Sub-Saharan Africa,Lower middle income
+CPV,False,Sub-Saharan Africa,Upper middle income
+CRI,False,Latin America & Caribbean,High income
+CUB,False,Latin America & Caribbean,Upper middle income
+CYP,False,Europe & Central Asia,High income
+CZE,False,Europe & Central Asia,High income
+DEU,False,Europe & Central Asia,High income
+DJI,False,"Middle East, N. Africa, Afghanistan & Pakistan",Lower middle income
+DMA,False,Latin America & Caribbean,Upper middle income
+DNK,False,Europe & Central Asia,High income
+DOM,False,Latin America & Caribbean,Upper middle income
+DZA,False,"Middle East, N. Africa, Afghanistan & Pakistan",Upper middle income
+ECU,False,Latin America & Caribbean,Upper middle income
+EGY,False,"Middle East, N. Africa, Afghanistan & Pakistan",Lower middle income
+ERI,False,Sub-Saharan Africa,Low income
+ESP,False,Europe & Central Asia,High income
+EST,False,Europe & Central Asia,High income
+ETH,False,Sub-Saharan Africa,Low income
+FIN,False,Europe & Central Asia,High income
+FJI,False,East Asia & Pacific,Upper middle income
+FRA,False,Europe & Central Asia,High income
+FSM,False,East Asia & Pacific,Upper middle income
+GAB,False,Sub-Saharan Africa,Upper middle income
+GBR,False,Europe & Central Asia,High income
+GEO,False,Europe & Central Asia,Upper middle income
+GHA,False,Sub-Saharan Africa,Lower middle income
+GIN,False,Sub-Saharan Africa,Lower middle income
+GMB,False,Sub-Saharan Africa,Low income
+GNB,False,Sub-Saharan Africa,Low income
+GNQ,False,Sub-Saharan Africa,Upper middle income
+GRC,False,Europe & Central Asia,High income
+GRD,False,Latin America & Caribbean,Upper middle income
+GTM,False,Latin America & Caribbean,Upper middle income
+GUY,False,Latin America & Caribbean,High income
+HND,False,Latin America & Caribbean,Lower middle income
+HRV,False,Europe & Central Asia,High income
+HTI,False,Latin America & Caribbean,Lower middle income
+HUN,False,Europe & Central Asia,High income
+IDN,False,East Asia & Pacific,Upper middle income
+IND,False,South Asia,Lower middle income
+IRL,False,Europe & Central Asia,High income
+IRN,False,"Middle East, N. Africa, Afghanistan & Pakistan",Upper middle income
+IRQ,False,"Middle East, N. Africa, Afghanistan & Pakistan",Upper middle income
+ISL,False,Europe & Central Asia,High income
+ISR,False,"Middle East, N. Africa, Afghanistan & Pakistan",High income
+ITA,False,Europe & Central Asia,High income
+JAM,False,Latin America & Caribbean,Upper middle income
+JOR,False,"Middle East, N. Africa, Afghanistan & Pakistan",Upper middle income
+JPN,False,East Asia & Pacific,High income
+KAZ,False,Europe & Central Asia,Upper middle income
+KEN,False,Sub-Saharan Africa,Lower middle income
+KGZ,False,Europe & Central Asia,Lower middle income
+KHM,False,East Asia & Pacific,Lower middle income
+KIR,False,East Asia & Pacific,Lower middle income
+KNA,False,Latin America & Caribbean,High income
+KOR,False,East Asia & Pacific,High income
+KWT,False,"Middle East, N. Africa, Afghanistan & Pakistan",High income
+LAO,False,East Asia & Pacific,Lower middle income
+LBN,False,"Middle East, N. Africa, Afghanistan & Pakistan",Lower middle income
+LBR,False,Sub-Saharan Africa,Low income
+LBY,False,"Middle East, N. Africa, Afghanistan & Pakistan",Upper middle income
+LCA,False,Latin America & Caribbean,Upper middle income
+LKA,False,South Asia,Upper middle income
+LSO,False,Sub-Saharan Africa,Lower middle income
+LTU,False,Europe & Central Asia,High income
+LUX,False,Europe & Central Asia,High income
+LVA,False,Europe & Central Asia,High income
+MAR,False,"Middle East, N. Africa, Afghanistan & Pakistan",Lower middle income
+MCO,False,Europe & Central Asia,High income
+MDA,False,Europe & Central Asia,Upper middle income
+MDG,False,Sub-Saharan Africa,Low income
+MDV,False,South Asia,Upper middle income
+MEX,False,Latin America & Caribbean,Upper middle income
+MHL,False,East Asia & Pacific,Upper middle income
+MKD,False,Europe & Central Asia,Upper middle income
+MLI,False,Sub-Saharan Africa,Low income
+MLT,False,"Middle East, N. Africa, Afghanistan & Pakistan",High income
+MMR,False,East Asia & Pacific,Lower middle income
+MNE,False,Europe & Central Asia,Upper middle income
+MNG,False,East Asia & Pacific,Upper middle income
+MOZ,False,Sub-Saharan Africa,Low income
+MRT,False,Sub-Saharan Africa,Lower middle income
+MUS,False,Sub-Saharan Africa,Upper middle income
+MWI,False,Sub-Saharan Africa,Low income
+MYS,False,East Asia & Pacific,Upper middle income
+NAM,False,Sub-Saharan Africa,Lower middle income
+NER,False,Sub-Saharan Africa,Low income
+NGA,False,Sub-Saharan Africa,Lower middle income
+NLD,False,Europe & Central Asia,High income
+NOR,False,Europe & Central Asia,High income
+NPL,False,South Asia,Lower middle income
+NRU,False,East Asia & Pacific,High income
+NZL,False,East Asia & Pacific,High income
+OMN,False,"Middle East, N. Africa, Afghanistan & Pakistan",High income
+PAK,False,"Middle East, N. Africa, Afghanistan & Pakistan",Lower middle income
+PAN,False,Latin America & Caribbean,High income
+PER,False,Latin America & Caribbean,Upper middle income
+PHL,False,East Asia & Pacific,Upper middle income
+PLW,False,East Asia & Pacific,High income
+PNG,False,East Asia & Pacific,Lower middle income
+POL,False,Europe & Central Asia,High income
+PRT,False,Europe & Central Asia,High income
+PRY,False,Latin America & Caribbean,Upper middle income
+PSE,False,"Middle East, N. Africa, Afghanistan & Pakistan",Lower middle income
+QAT,False,"Middle East, N. Africa, Afghanistan & Pakistan",High income
+ROU,False,Europe & Central Asia,High income
+RUS,False,Europe & Central Asia,High income
+RWA,False,Sub-Saharan Africa,Low income
+SAU,False,"Middle East, N. Africa, Afghanistan & Pakistan",High income
+SDN,False,Sub-Saharan Africa,Low income
+SEN,False,Sub-Saharan Africa,Lower middle income
+SGP,False,East Asia & Pacific,High income
+SLB,False,East Asia & Pacific,Lower middle income
+SLE,False,Sub-Saharan Africa,Low income
+SLV,False,Latin America & Caribbean,Upper middle income
+SMR,False,Europe & Central Asia,High income
+SOM,False,Sub-Saharan Africa,Low income
+SRB,False,Europe & Central Asia,Upper middle income
+SSD,False,Sub-Saharan Africa,Low income
+STP,False,Sub-Saharan Africa,Lower middle income
+SUR,False,Latin America & Caribbean,Upper middle income
+SVK,False,Europe & Central Asia,High income
+SVN,False,Europe & Central Asia,High income
+SWE,False,Europe & Central Asia,High income
+SWZ,False,Sub-Saharan Africa,Lower middle income
+SYC,False,Sub-Saharan Africa,High income
+SYR,False,"Middle East, N. Africa, Afghanistan & Pakistan",Low income
+TCD,False,Sub-Saharan Africa,Low income
+TGO,False,Sub-Saharan Africa,Lower middle income
+THA,False,East Asia & Pacific,Upper middle income
+TJK,False,Europe & Central Asia,Lower middle income
+TKM,False,Europe & Central Asia,Upper middle income
+TLS,False,East Asia & Pacific,Lower middle income
+TON,False,East Asia & Pacific,Upper middle income
+TTO,False,Latin America & Caribbean,High income
+TUN,False,"Middle East, N. Africa, Afghanistan & Pakistan",Lower middle income
+TUR,False,Europe & Central Asia,Upper middle income
+TUV,False,East Asia & Pacific,Upper middle income
+TZA,False,Sub-Saharan Africa,Lower middle income
+UGA,False,Sub-Saharan Africa,Low income
+UKR,False,Europe & Central Asia,Upper middle income
+URY,False,Latin America & Caribbean,High income
+USA,False,North America,High income
+UZB,False,Europe & Central Asia,Lower middle income
+VCT,False,Latin America & Caribbean,Upper middle income
+VEN,False,Latin America & Caribbean,Lower middle income
+VNM,False,East Asia & Pacific,Upper middle income
+VUT,False,East Asia & Pacific,Lower middle income
+WSM,False,East Asia & Pacific,Upper middle income
+YEM,False,"Middle East, N. Africa, Afghanistan & Pakistan",Low income
+ZAF,False,Sub-Saharan Africa,Upper middle income
+ZMB,False,Sub-Saharan Africa,Lower middle income
+ZWE,False,Sub-Saharan Africa,Lower middle income
